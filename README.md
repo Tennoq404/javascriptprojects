@@ -31,4 +31,6 @@ so fast
 what is a javascript runtime?
 we can imagine a javascript run time as a big box or big container that contaains 
 everything we need for js.
-the heart of every js runtime is the js engine
+the heart of every js runtime is the js engine.
+hoisting : make some types of variables accessible/usable in the code beforev they are actually decalred.
+  variable environmebt object.
